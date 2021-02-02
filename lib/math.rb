@@ -30,6 +30,6 @@ end
 
 def square_root(num)
   result = square_root 81
-  puts "square_root"
-  square_root
+  puts "result"
+  result
 end
