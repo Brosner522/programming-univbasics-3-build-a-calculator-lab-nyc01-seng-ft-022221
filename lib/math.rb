@@ -26,7 +26,6 @@ def modulo(num1, num2)
   sum = 34 % 5
   puts "sum"
   sum
-
 end
 
 def square_root(num)
