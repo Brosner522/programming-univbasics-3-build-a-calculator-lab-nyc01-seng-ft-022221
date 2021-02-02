@@ -5,7 +5,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  sum = 7 - 3
+  sum = 10 - 5
   puts "sum"
   sum
 end
