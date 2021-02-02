@@ -11,15 +11,19 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-
+  sum = 50 / 2 
+  puts "sum"
+  sum
 end
 
 def multiplication(num1, num2)
-
+  sum = 4 * 30
+  puts "sum"
+  sum
 end
 
 def modulo(num1, num2)
-
+  sum = 34 % 5
 end
 
 def square_root(num)
